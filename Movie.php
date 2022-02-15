@@ -44,9 +44,9 @@ $signoreDegliAnelli->setYearProduction(1990, 1994);
     <title>Document</title>
 </head>
 <body>
-    .<div class="container">
-        <h1><?php echo $signoreDegliAnelli-> title; ?></h1>
-        <p>Il film è stato prodotto in <?php echo $signoreDegliAnelli-> yearLaunch; ?> anni</p>
+    <div class="container">
+        <h1><?php echo $signoreDegliAnelli -> title; ?></h1>
+        <p>Il film è stato prodotto in <?php echo $signoreDegliAnelli -> yearLaunch; ?> anni</p>
     </div>
 </body>
 </html>
